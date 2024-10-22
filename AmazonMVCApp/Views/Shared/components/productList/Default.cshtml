@@ -1,0 +1,53 @@
+﻿@using Amazon.Domain.Models
+@using System.Globalization
+@using AmazonMVCApp.Repo
+
+
+@inject IStateRepository stateRepository
+
+
+@model IList<Product>
+
+
+@foreach (var products in Model)
+{
+    <div class="col mb-5">
+        <div class="card h-100">
+            <!-- Product image-->
+            <url-with-slug
+                           asp-controller="Home"
+                           asp-action="ProductDetails"
+                           for-product-id=@products.ProductId
+                           for-product-name=@products.Name>
+                <img class="card-img-top" src="~/imag/Products/@(products.ProductId).jpg" alt="..." />
+            </url-with-slug>
+            <!-- Product details-->
+            <div class="card-body p-4">
+                <div class="text-center">
+                    <!-- Product name-->
+                    <h5 class="fw-bolder">@products.Name</h5>
+                    <!-- Product price-->
+                    @products.Price.ToString("c", new CultureInfo("en-US"))
+                </div>
+            </div>
+            <!-- Product actions-->
+            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                <div class="text-center">
+                    @* <a class="btn btn-outline-dark mt-auto"
+                       asp-controller="Home"
+                       asp-action="ProductDetails"
+                       asp-route-productId="@products.ProductId"
+                       asp-route-slug="@products.Name.Replace(" ", "-").ToLower()">View details
+                   </a> *@
+
+                    <form asp-controller="Cart" asp-action="Add">
+                        <input type="hidden" name="Product.ProductId" value="@products.ProductId"/>
+                        <input type="hidden" name="CartId" value="@(stateRepository.GetValue("CartId") == null ? null : stateRepository.GetValue("CartId"))" />
+                        <input type="submit" value="Add to cart" class="btn btn-outline-dark mt-auto" />
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+}

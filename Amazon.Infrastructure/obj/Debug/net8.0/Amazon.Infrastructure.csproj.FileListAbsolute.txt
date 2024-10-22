@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\bin\Debug\net8.0\Amazon.Infrastructure.deps.json
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\bin\Debug\net8.0\Amazon.Infrastructure.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\bin\Debug\net8.0\Amazon.Infrastructure.dll
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\bin\Debug\net8.0\Amazon.Infrastructure.pdb
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\bin\Debug\net8.0\Amazon.Domain.dll
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\bin\Debug\net8.0\Amazon.Domain.pdb
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\obj\Debug\net8.0\Amazon.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\obj\Debug\net8.0\Amazon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\obj\Debug\net8.0\Amazon.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\obj\Debug\net8.0\Amazon.Infrastructure.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\obj\Debug\net8.0\Amazon.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\obj\Debug\net8.0\Amazon.I.A79424F2.Up2Date
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\obj\Debug\net8.0\Amazon.Infrastructure.dll
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\obj\Debug\net8.0\refint\Amazon.Infrastructure.dll
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\obj\Debug\net8.0\Amazon.Infrastructure.pdb
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\obj\Debug\net8.0\Amazon.Infrastructure.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Infrastructure\obj\Debug\net8.0\ref\Amazon.Infrastructure.dll

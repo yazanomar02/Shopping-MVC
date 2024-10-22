@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Domain\bin\Debug\net8.0\Amazon.Domain.deps.json
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Domain\bin\Debug\net8.0\Amazon.Domain.dll
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Domain\bin\Debug\net8.0\Amazon.Domain.pdb
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Domain\obj\Debug\net8.0\Amazon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Domain\obj\Debug\net8.0\Amazon.Domain.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Domain\obj\Debug\net8.0\Amazon.Domain.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Domain\obj\Debug\net8.0\Amazon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Domain\obj\Debug\net8.0\Amazon.Domain.dll
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Domain\obj\Debug\net8.0\refint\Amazon.Domain.dll
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Domain\obj\Debug\net8.0\Amazon.Domain.pdb
+C:\Users\User\OneDrive\Desktop\1000 Programming\ASP.NET\MVC\TestWebApplications\Amazon.Domain\obj\Debug\net8.0\ref\Amazon.Domain.dll

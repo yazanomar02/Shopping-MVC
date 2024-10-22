@@ -1,0 +1,34 @@
+﻿@using Amazon.Domain.Models
+@using System.Globalization
+
+@model IList<Product>
+
+@{
+    ViewData["Title"] = "Home Page";
+    // ViewBag.Message = "yazan"; // متحول مشترك بين الفرونت والباك
+    // string myVar = "<h1>Hello World</h1>";
+
+    // int add(int x, int y)
+    // {
+    //     return x + y;
+    // }
+}
+
+@* @Html.Raw(myVar)
+@add(5,5) *@
+
+
+@* @ViewData["myString"]
+@ViewBag.Message *@
+
+@ViewData["Message"]
+
+@await Component.InvokeAsync("ProductList");
+
+    @section footer{
+    <!-- Footer-->
+    <footer class="py-5 bg-dark">
+        <div class="container"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2023</p></div>
+    </footer>
+    }
+       

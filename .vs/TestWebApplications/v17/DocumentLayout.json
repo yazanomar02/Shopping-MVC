@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|c:\\users\\user\\onedrive\\desktop\\1000 programming\\asp.net\\mvc\\testwebapplications\\amazonmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|solutionrelative:amazonmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|c:\\users\\user\\onedrive\\desktop\\1000 programming\\asp.net\\mvc\\testwebapplications\\amazonmvcapp\\repo\\sessionstaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|solutionrelative:amazonmvcapp\\repo\\sessionstaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|c:\\users\\user\\onedrive\\desktop\\1000 programming\\asp.net\\mvc\\testwebapplications\\amazonmvcapp\\repo\\istaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|solutionrelative:amazonmvcapp\\repo\\istaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|c:\\users\\user\\onedrive\\desktop\\1000 programming\\asp.net\\mvc\\testwebapplications\\amazonmvcapp\\transformers\\slugoparametertransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|solutionrelative:amazonmvcapp\\transformers\\slugoparametertransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|c:\\users\\user\\onedrive\\desktop\\1000 programming\\asp.net\\mvc\\testwebapplications\\amazonmvcapp\\taghelpers\\slugtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|solutionrelative:amazonmvcapp\\taghelpers\\slugtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|c:\\users\\user\\onedrive\\desktop\\1000 programming\\asp.net\\mvc\\testwebapplications\\amazonmvcapp\\constraints\\slugconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|solutionrelative:amazonmvcapp\\constraints\\slugconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|c:\\users\\user\\onedrive\\desktop\\1000 programming\\asp.net\\mvc\\testwebapplications\\amazonmvcapp\\attributes\\timerfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|solutionrelative:amazonmvcapp\\attributes\\timerfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|c:\\users\\user\\onedrive\\desktop\\1000 programming\\asp.net\\mvc\\testwebapplications\\amazonmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|solutionrelative:amazonmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|c:\\users\\user\\onedrive\\desktop\\1000 programming\\asp.net\\mvc\\testwebapplications\\amazonmvcapp\\components\\productlistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|solutionrelative:amazonmvcapp\\components\\productlistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|c:\\users\\user\\onedrive\\desktop\\1000 programming\\asp.net\\mvc\\testwebapplications\\amazonmvcapp\\filters\\timerfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|solutionrelative:amazonmvcapp\\filters\\timerfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|c:\\users\\user\\onedrive\\desktop\\1000 programming\\asp.net\\mvc\\testwebapplications\\amazonmvcapp\\components\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C564910-8103-4B43-8810-3FA63610A7FD}|AmazonMVCApp\\AmazonMVCApp.csproj|solutionrelative:amazonmvcapp\\components\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionStateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Repo\\SessionStateRepository.cs",
+              "RelativeDocumentMoniker": "AmazonMVCApp\\Repo\\SessionStateRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Repo\\SessionStateRepository.cs",
+              "RelativeToolTip": "AmazonMVCApp\\Repo\\SessionStateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:14:28.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Repo\\IStateRepository.cs",
+              "RelativeDocumentMoniker": "AmazonMVCApp\\Repo\\IStateRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Repo\\IStateRepository.cs",
+              "RelativeToolTip": "AmazonMVCApp\\Repo\\IStateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:14:26.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "AmazonMVCApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Program.cs",
+              "RelativeToolTip": "AmazonMVCApp\\Program.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:13:01.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AmazonMVCApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\appsettings.json",
+              "RelativeToolTip": "AmazonMVCApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T15:13:01.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimerFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Attributes\\TimerFilterAttribute.cs",
+              "RelativeDocumentMoniker": "AmazonMVCApp\\Attributes\\TimerFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Attributes\\TimerFilterAttribute.cs*",
+              "RelativeToolTip": "AmazonMVCApp\\Attributes\\TimerFilterAttribute.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:56:10.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlugConstraint.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Constraints\\SlugConstraint.cs",
+              "RelativeDocumentMoniker": "AmazonMVCApp\\Constraints\\SlugConstraint.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Constraints\\SlugConstraint.cs",
+              "RelativeToolTip": "AmazonMVCApp\\Constraints\\SlugConstraint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:06:53.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SlugTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\TagHelpers\\SlugTagHelper.cs",
+              "RelativeDocumentMoniker": "AmazonMVCApp\\TagHelpers\\SlugTagHelper.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\TagHelpers\\SlugTagHelper.cs",
+              "RelativeToolTip": "AmazonMVCApp\\TagHelpers\\SlugTagHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:08:18.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SlugOParameterTransformer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Transformers\\SlugOParameterTransformer.cs",
+              "RelativeDocumentMoniker": "AmazonMVCApp\\Transformers\\SlugOParameterTransformer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Transformers\\SlugOParameterTransformer.cs",
+              "RelativeToolTip": "AmazonMVCApp\\Transformers\\SlugOParameterTransformer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:11:27.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimerFilter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Filters\\TimerFilter.cs",
+              "RelativeDocumentMoniker": "AmazonMVCApp\\Filters\\TimerFilter.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Filters\\TimerFilter.cs",
+              "RelativeToolTip": "AmazonMVCApp\\Filters\\TimerFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:07:27.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductListViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Components\\ProductListViewComponent.cs",
+              "RelativeDocumentMoniker": "AmazonMVCApp\\Components\\ProductListViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Components\\ProductListViewComponent.cs",
+              "RelativeToolTip": "AmazonMVCApp\\Components\\ProductListViewComponent.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:06:29.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoppingCartViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Components\\ShoppingCartViewComponent.cs",
+              "RelativeDocumentMoniker": "AmazonMVCApp\\Components\\ShoppingCartViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\1000 Programming\\ASP.NET\\MVC\\TestWebApplications\\AmazonMVCApp\\Components\\ShoppingCartViewComponent.cs",
+              "RelativeToolTip": "AmazonMVCApp\\Components\\ShoppingCartViewComponent.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:06:45.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
